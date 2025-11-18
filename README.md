@@ -59,6 +59,8 @@ function fullStackDeveloper() {
 }
 
 fullStackDeveloper().workMode();
+fullStackDeveloper().code();
+
 
 ```
 
