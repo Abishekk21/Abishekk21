@@ -1,5 +1,5 @@
-<h1 align="left">🚀 Yo! I'm Abishek Karunamoorthi</h1>
-<h3 align="left">Full-Stack Dev from India, turning caffeine into clean code</h3>
+<h1 align="left">Hi Buddy, I'm Abishek Karunamoorthi</h1>
+<h3 align="left">Full-Stack Dev from India, turning caffeine into clean code.</h3>
 <h5 align="left">Full-Stack Dev • MERN Stack • Part-time bug creator, full-time fixer</h5>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
