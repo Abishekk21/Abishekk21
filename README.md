@@ -2,39 +2,56 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
-##  What I'm Working On
+## 🚀 What I'm Working On
 
-- 🎯 **MERN-based SEO Tool** - Building a scalable SaaS product
-- 🤖 Learning AngularJS
-- ⚡ Building production-ready full-stack applications
-- 📊 Improving cloud deployment workflows (Azure & AWS)
-- 🧠 Enhancing APIs, database design & dashboards
+- 🎯 **MERN-based SEO Tool** – Building a scalable SaaS product (and fighting bugs like mini-bosses 🐛⚔️)
+- 🤖 **Learning AngularJS** – Because why not learn another framework before mastering the first one?
+- ⚡ **Building production-ready full-stack applications** – AKA turning coffee into code ☕➡️💻
+- 📊 **Improving cloud deployment workflows (Azure & AWS)** – And trying not to accidentally delete a resource group again 🙃
+- 🧠 **Enhancing APIs, database design & dashboards** – Making backend logic elegant and frontend dashboards prettier than my sleep schedule
+- 🔄 **Optimizing React components** – Reducing re-renders like I’m defusing bombs in Mission Impossible 💣
+- 🌐 **Experimenting with advanced routing & state management** – Because one does not simply “manage state” in React 😭
+- 🗃️ **Writing cleaner MongoDB queries** – Hoping the aggregation pipeline doesn’t become a pipeline of pain
+- 🧩 **Playing with Express middlewares** – Sometimes adding more middlewares than actual routes
+- 🚀 **Trying to make Node.js faster** – By praying to the async/await gods
+- 🤝 **Improving team collaboration** – By sending more memes than actual code updates
+- 🐒 **Refactoring old code** – Looking at my old code like “who wrote this?" (also me)
+- 🎨 **Polishing UI with Tailwind** – Because spacing classes like `mt-1`, `mt-1.5`, `mt-2` *definitely* make all the difference
+
 ## 🎯 About Me
 
 ```javascript
-class FullStackDeveloper {
-  constructor() {
-    this.name = "Abishek Karunamoorthi";
-    this.role = "Full-Stack Developer";
-    this.location = "India 🇮🇳";
-    this.specialization = [
-      "MERN Stack",
-      "Cloud (AWS / Azure)",
-      "PostgreSQL & MongoDB",
-      "API Development",
-      "Frontend Engineering"
-    ];
-    this.currentWork = "MERN-based SEO Tool";
-    this.learning = "AngularJS";
-  }
-
-  askMeAbout() {
-    return [
-      "MongoDB", "ExpressJS", "ReactJS", "NodeJS",
-      "PostgreSQL", "Azure", "Python"
-    ];
-  }
+function fullStackDeveloper() {
+  return {
+    name: "Abishek Karunamoorthi",
+    superPowers: [
+      "Summoning React components at 3 AM",
+      "Turning MongoDB errors into life lessons",
+      "Deploying on Azure without crying (most days)",
+      "Debugging Node.js like a detective"
+    ],
+    softSkills: [
+      "Ctrl+C, Ctrl+V Professional",
+      "Code Comment Philosopher",
+      "Dashboard Aesthetics Specialist"
+    ],
+    workMode() {
+      console.log("🧠 Coding… Do Not Disturb (unless you have food).");
+    }
+    code() {
+        while (this.energyLevel > 0) {
+          console.log("💻 Writing code...");
+          this.energyLevel--;
+    
+          if (this.energyLevel === 20) console.log("⚠️ System Warning: Low Coffee Level");
+          if (this.energyLevel === 0) console.log("☠️ Developer has stopped responding");
+        }
+    }
+  };
 }
+
+fullStackDeveloper().workMode();
+
 ```
 
 <br clear="right"/>
