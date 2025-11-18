@@ -2,6 +2,19 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
+### 🧰 My Coding Philosophy
+
+- Keep it simple, not clever  
+- Write code that future-me won’t hate  
+- Fewer dependencies = fewer headaches  
+- Comments are free — use them wisely  
+- If it works, don’t touch it (unless CI screams)  
+- Code for readability, not heroism  
+- Push small commits, avoid big disasters  
+- Prefer clarity over “smart” one-liners  
+- Automate the boring stuff  
+- Optimize when necessary, not when bored  
+
 ## 🚀 What I'm Working On
 
 - 🎯 **MERN-based SEO Tool** – Building a scalable SaaS product (and fighting bugs like mini-bosses 🐛⚔️)
