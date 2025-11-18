@@ -4,16 +4,15 @@
 
 ### 🧰 My Coding Philosophy
 
-- Keep it simple, not clever  
+- Keep it simple, not clever
+- Automate the boring stuff
+- Comments are free - use them wisely  
 - Write code that future-me won’t hate  
-- Fewer dependencies = fewer headaches  
-- Comments are free — use them wisely  
-- If it works, don’t touch it (unless CI screams)  
-- Code for readability, not heroism  
-- Push small commits, avoid big disasters  
+- Fewer dependencies = fewer headaches
 - Prefer clarity over “smart” one-liners  
-- Automate the boring stuff  
-- Optimize when necessary, not when bored  
+- Push small commits, avoid big disasters  
+- If it works, don’t touch it (unless CI screams)  
+
 
 ## 🚀 What I'm Working On
 
