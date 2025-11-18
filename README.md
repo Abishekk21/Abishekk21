@@ -7,22 +7,18 @@
 ### 🧰 My Coding Philosophy
 
 - Keep it simple, not clever
-- Automate the boring stuff
 - Comments are free - use them wisely  
 - Write code that future-me won’t hate  
 - Fewer dependencies = fewer headaches
-- Prefer clarity over “smart” one-liners  
 - Push small commits, avoid big disasters  
 - If it works, don’t touch it (unless CI screams)  
 
 
 ## 🚀 What I'm Working On
 
-- 🎯 **MERN-based SEO Tool** – Building a scalable SaaS product (and fighting bugs like mini-bosses 🐛⚔️)
+- 🎯 **MERN-based SEO Tool** – Building a scalable SaaS product (and fighting with bugs🐛)
 - 🤖 **Learning AngularJS** – Because why not learn another framework before mastering the first one?
-- ⚡ **Building production-ready full-stack applications** – AKA turning coffee into code ☕➡️💻
 - 🔄 **Optimizing React components** – Reducing re-renders like I’m defusing bombs in Mission Impossible 💣
-- 🌐 **Experimenting with advanced routing & state management** – Because one does not simply “manage state” in React 😭
 - 🧩 **Playing with Express middlewares** – Sometimes adding more middlewares than actual routes
 - 🚀 **Trying to make Node.js faster** – By praying to the async/await gods
 - 🤝 **Improving team collaboration** – By sending more memes than actual code updates
