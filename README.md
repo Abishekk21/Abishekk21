@@ -2,6 +2,13 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
+##  What I'm Working On
+
+- 🎯 **MERN-based SEO Tool** - Building a scalable SaaS product
+- 🤖 Learning AngularJS
+- ⚡ Building production-ready full-stack applications
+- 📊 Improving cloud deployment workflows (Azure & AWS)
+- 🧠 Enhancing APIs, database design & dashboards
 ## 🎯 About Me
 
 ```javascript
@@ -32,47 +39,9 @@ class FullStackDeveloper {
 
 <br clear="right"/>
 
-##  What I'm Working On
 
-- 🎯 **MERN-based SEO Tool** - Building a scalable SaaS product
-- 🤖 Learning AngularJS
-- ⚡ Building production-ready full-stack applications
-- 📊 Improving cloud deployment workflows (Azure & AWS)
-- 🧠 Enhancing APIs, database design & dashboards
 
-## 📊 GitHub Analytics
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=abishekk21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekk21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekk21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abishekk21&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abishekk21&theme=tokyo-night&hide_border=true)
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
