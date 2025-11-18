@@ -16,14 +16,14 @@
 
 ## 🚀 What I'm Working On
 
-- 🎯 **MERN-based SEO Tool** – Building a scalable SaaS product (and fighting with bugs🐛)
-- 🤖 **Learning AngularJS** – Because why not learn another framework before mastering the first one?
-- 🔄 **Optimizing React components** – Reducing re-renders like I’m defusing bombs in Mission Impossible 💣
-- 🧩 **Playing with Express middlewares** – Sometimes adding more middlewares than actual routes
-- 🚀 **Trying to make Node.js faster** – By praying to the async/await gods
-- 🤝 **Improving team collaboration** – By sending more memes than actual code updates
-- 🐒 **Refactoring old code** – Looking at my old code like “who wrote this?" (also me)
-- 📊 **Improving cloud deployment workflows (Azure & AWS)** – And trying not to accidentally delete a resource group again 🙃
+- 🎯 **MERN-based SEO Tool** - Building a scalable SaaS product (and fighting with bugs🐛)
+- 🤖 **Learning AngularJS** - Because why not learn another framework before mastering the first one?
+- 🔄 **Optimizing React components** - Reducing re-renders like I’m defusing bombs in Mission Impossible 💣
+- 🧩 **Playing with Express middlewares** - Sometimes adding more middlewares than actual routes
+- 🚀 **Trying to make Node.js faster** - By praying to the async/await gods
+- 🤝 **Improving team collaboration** - By sending more memes than actual code updates
+- 🐒 **Refactoring old code** - Looking at my old code like “who wrote this?" (also me)
+- 📊 **Improving cloud deployment workflows (Azure & AWS)** - And trying not to accidentally delete a resource group again 🙃
 
 
 ## 🎯 About Me
@@ -72,8 +72,8 @@ fullStackDeveloper().code();
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abishek-karunamoorthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishek-karunamoorthi" height="30" width="40" /></a>
-<a href="https://instagram.com/ab_shkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab_shkkk" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abishek-karunamoorthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishek-karunamoorthi" height="30" width="40" /></a>
+  <a href="https://instagram.com/ab_shkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab_shkkk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -101,29 +101,22 @@ fullStackDeveloper().code();
 ## 📈 Contribution Graph
 
 <div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abishekk21&theme=tokyo-night&hide_border=true)
-
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 <table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abishekk21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekk21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=abishekk21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekk21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekk21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 </div>
