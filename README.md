@@ -21,16 +21,14 @@
 - 🎯 **MERN-based SEO Tool** – Building a scalable SaaS product (and fighting bugs like mini-bosses 🐛⚔️)
 - 🤖 **Learning AngularJS** – Because why not learn another framework before mastering the first one?
 - ⚡ **Building production-ready full-stack applications** – AKA turning coffee into code ☕➡️💻
-- 📊 **Improving cloud deployment workflows (Azure & AWS)** – And trying not to accidentally delete a resource group again 🙃
-- 🧠 **Enhancing APIs, database design & dashboards** – Making backend logic elegant and frontend dashboards prettier than my sleep schedule
 - 🔄 **Optimizing React components** – Reducing re-renders like I’m defusing bombs in Mission Impossible 💣
 - 🌐 **Experimenting with advanced routing & state management** – Because one does not simply “manage state” in React 😭
-- 🗃️ **Writing cleaner MongoDB queries** – Hoping the aggregation pipeline doesn’t become a pipeline of pain
 - 🧩 **Playing with Express middlewares** – Sometimes adding more middlewares than actual routes
 - 🚀 **Trying to make Node.js faster** – By praying to the async/await gods
 - 🤝 **Improving team collaboration** – By sending more memes than actual code updates
 - 🐒 **Refactoring old code** – Looking at my old code like “who wrote this?" (also me)
-- 🎨 **Polishing UI with Tailwind** – Because spacing classes like `mt-1`, `mt-1.5`, `mt-2` *definitely* make all the difference
+- 📊 **Improving cloud deployment workflows (Azure & AWS)** – And trying not to accidentally delete a resource group again 🙃
+
 
 ## 🎯 About Me
 
