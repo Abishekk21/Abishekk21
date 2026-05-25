@@ -106,19 +106,3 @@ fullStackDeveloper().code();
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=abishekk21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekk21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekk21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
